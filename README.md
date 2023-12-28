@@ -1,3 +1,4 @@
+![image](https://github.com/sCrystalCave/aws_lambda_scikit-learn/assets/124455998/bf46fe96-34e6-4af9-8460-077fea2e7c16)
 
 ### English description
 AWS lambda does not allow you to import many libraries directly, including scikit-learn.
